@@ -1,0 +1,6 @@
+{
+  "name": "Fairy Forest Home",
+  "description": "An enchanted family chore board and smart companion dashboard. Designed to turn daily household helping into a delightful forest path journey.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
